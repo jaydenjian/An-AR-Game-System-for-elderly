@@ -13,3 +13,10 @@
 
 ### UI設計
 與組員探討設計後，先將所需圖檔做出，再依序於Unity中執行出來。從裝置按鍵控制、Button選擇動畫與執行，到各場景畫面連接等，做程式上的設計。
+
+### Demo
+<br> <a href="https://youtu.be/RVMy5jxJEn8" target="_blank"><img src="https://github.com/jaydenjian/An-AR-Game-System-for-elderly/blob/master/media/Screen%20Shot%202019-09-06%20at%202.27.13%20AM.png" 
+width=70% /></a>
+<br> 點擊圖像觀看影片
+<br>
+
